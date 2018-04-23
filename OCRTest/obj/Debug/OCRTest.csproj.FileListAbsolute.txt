@@ -1,0 +1,8 @@
+c:\users\shenker\documents\visual studio 2015\Projects\OCRTest\OCRTest\bin\Debug\OCRTest.exe.config
+c:\users\shenker\documents\visual studio 2015\Projects\OCRTest\OCRTest\bin\Debug\OCRTest.exe
+c:\users\shenker\documents\visual studio 2015\Projects\OCRTest\OCRTest\bin\Debug\OCRTest.pdb
+c:\users\shenker\documents\visual studio 2015\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.csprojResolveAssemblyReference.cache
+c:\users\shenker\documents\visual studio 2015\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.exe
+c:\users\shenker\documents\visual studio 2015\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.pdb
+c:\users\shenker\documents\visual studio 2015\Projects\OCRTest\OCRTest\bin\Debug\tessnet2_64.dll
+c:\users\shenker\documents\visual studio 2015\Projects\OCRTest\OCRTest\bin\Debug\tessnet2_64.pdb
